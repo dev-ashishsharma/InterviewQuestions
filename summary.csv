@@ -1,0 +1,3 @@
+date,CompanyId,BusId,CompleteTripCount,IncompleteTripCount,CancelledTripCount,TotalCharges
+22-01-2018,Company1,Bus37,2,0,1,6.50
+22-01-2018,Company1,Bus35,1,1,0,14.6

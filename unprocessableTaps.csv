@@ -1,0 +1,5 @@
+id,dateTime,TapType,StopId,CompanyId,BusId,PAN
+"",22-01-201 13:05:00,OFF,Stop2,Company1,Bus37,db3912d77ffa433c9629aea6151a98b30130f30c438d8da32bd704f27e6bee19,Date Time Data is Incorrect
+3,,,,Bus37,76868,,Incorrect Data
+4,22-01-2018 13:05:00,OFFN,Stop2,Company1,Bus37,db3912d77ffa433c9629aea6151a98b30130f30c438d8da32bd704f27e6bee19,TAP Data is Incorrect
+8,22-01-2018 13:05:00,OFF,Stop4,Company1,Bus37,db3912d77ffa433c9629aea6151a98b30130f30c438d8da32bd704f27e6bee19,Stop Data is Incorrect
